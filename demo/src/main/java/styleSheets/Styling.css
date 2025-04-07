@@ -1,0 +1,12 @@
+.loginButton {
+    background-color: green; /* culoare verde */
+    border-radius: 10px; /* colțuri rotunjite */
+    padding: 10px 20px; /* adăugare de spațiu în interiorul butonului */
+    border: 2px solid white; /* contur albut */
+    color: white; /* culoare text */
+    transition: background-color 0.3s ease; /* animație de tranziție */
+}
+
+.loginButton:hover {
+    background-color: lightgreen; /* culoare mai deschisă la hover */
+}
