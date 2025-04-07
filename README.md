@@ -4,16 +4,6 @@ Also implemented a robust multi-threaded server in Java to host user connections
 Implemented a *layered architecture* with crucial roles for each class to ensure the code's successful operation. Utilized  RepositoryDB classes to connect the code to the Postgres database.
 
 Check some screenshots of the application: 💬💬💬
-# how to set width and height of image
-# flexbox
 ![alt text](image.png)![alt text](image-2.png)![alt text](image-3.png)![alt text](image-4.png)![alt text](image-5.png)
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="image.png" alt="Image 1" width="350"/>
-  <img src="image-2.png" alt="Image 2" width="350"/>
-  <img src="image-3.png" alt="Image 3" width="350"/>
-  <img src="image-4.png" alt="Image 4" width="350"/>
-  <img src="image-5.png" alt="Image 5" width="350"/>
-</div>
-
 
 
