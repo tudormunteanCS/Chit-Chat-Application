@@ -6,9 +6,9 @@ Implemented a *layered architecture* with crucial roles for each class to ensure
 Check some screenshots of the application: 💬💬💬
 # how to set width and height of image
 # flexbox
-
+![alt text](image.png)
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="image1.png" alt="Image 1" width="150"/>
+  <img src="image.png" alt="Image 1" width="150"/>
   <img src="image2.png" alt="Image 2" width="150"/>
   <img src="image3.png" alt="Image 3" width="150"/>
   <img src="image4.png" alt="Image 4" width="150"/>
@@ -16,4 +16,4 @@ Check some screenshots of the application: 💬💬💬
 </div>
 
 
-![alt text](image.png)
+
