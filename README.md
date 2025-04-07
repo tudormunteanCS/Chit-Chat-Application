@@ -5,5 +5,6 @@ Implemented a *layered architecture* with crucial roles for each class to ensure
 
 Check some screenshots of the application: 💬💬💬
 # how to set width and height of image
+<img src="image.png" alt="alt text" width="300"/>
 
 ![alt text](image.png) ![alt text](image-1.png)
