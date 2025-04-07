@@ -5,6 +5,15 @@ Implemented a *layered architecture* with crucial roles for each class to ensure
 
 Check some screenshots of the application: 💬💬💬
 # how to set width and height of image
-<img src="image.png" alt="alt text" width="300"/>
+# flexbox
 
-![alt text](image.png) ![alt text](image-1.png)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="image1.png" alt="Image 1" width="150"/>
+  <img src="image2.png" alt="Image 2" width="150"/>
+  <img src="image3.png" alt="Image 3" width="150"/>
+  <img src="image4.png" alt="Image 4" width="150"/>
+  <img src="image5.png" alt="Image 5" width="150"/>
+</div>
+
+
+![alt text](image.png)
